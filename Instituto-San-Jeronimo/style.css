@@ -3156,7 +3156,7 @@ body{
 	bottom:0;
 	height:2px;
 	width:50px;
-	background:#1A76D1;
+	background:#5e2216;
 }
 .contact-us .contact-us-form p {
 	font-size: 14px;
@@ -3267,7 +3267,7 @@ body{
 	margin-top:50px;
 }
 .contact-us .single-info {
-	background: #1a76d1;
+	background: #5e2216;
 	padding: 40px 60px;
 	height: 150px;
 	border-radius: 10px;
@@ -3288,7 +3288,7 @@ body{
     margin: 0 auto;
     width: 80%;
     height: 90%;
-    background:#1A76D1;
+    background:#5e2216;
     opacity: 0;
     filter: blur(10px);
     -webkit-transition: all .3s ease-out 0s;
